@@ -22,3 +22,5 @@ int binary_tree_is_full(const binary_tree_t *tree)
 	/* Node with only one child */
 	return (0);
 }
+
+
